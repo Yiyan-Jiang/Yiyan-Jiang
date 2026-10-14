@@ -8,8 +8,7 @@
 
 <p><samp>
   <a href="https://github.com/Yiyan-Jiang/Drrr-chatRoom-add-AIChat">Chat Room</a> ·
-  <a href="https://github.com/MZH603/recon-agent">Recon Agent</a> ·
-  <a href="https://github.com/MZH603/recon-agent/pull/2">My Contribution</a>
+  <a href="https://github.com/MZH603/recon-agent">Recon Agent</a> 
 </samp></p>
 
 - I enjoy building AI agents and real-time apps — ideas are better when they actually work.
