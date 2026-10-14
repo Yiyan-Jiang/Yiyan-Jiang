@@ -1,9 +1,8 @@
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&color=7DA6C7&pause=100000&width=300&height=36&lines=Hey%2C+I'm+Yiyan." alt="Hey, I'm Yiyan." />
   <p>
-    <code>AI Undergraduate</code>
+    <code>wanna be AI Undergraduate</code>
     <code>Agents & Full-Stack</code>
-    <code>SZTU</code>
   </p>
 </div>
 
